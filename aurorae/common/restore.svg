@@ -1,0 +1,202 @@
+<svg
+   width="24"
+   height="24"
+   id="svg4428"
+   version="1.1"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="restore.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4430" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#eff0f1"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.756291"
+     inkscape:cx="64.016916"
+     inkscape:cy="34.570872"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="748"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     showborder="true"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4436"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0"
+       spacingx="1.0666667"
+       spacingy="1.0666667" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#e0e0e0;
+        stop-color:#e0e0e0;
+      }
+      .ColorScheme-Background {
+        color:#2c2c2c;
+        stop-color:#2c2c2c;
+      }
+      .ColorScheme-HeaderBackground {
+        color:#242424;
+        stop-color:#242424;
+      }
+      .ColorScheme-Highlight {
+        color:#e0e0e0;
+        stop-color:#e0e0e0;
+      }</style>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1098.5197)">
+    <g
+       id="active-center"
+       transform="translate(-64.696994,384.86914)">
+      <g
+         id="use1865"
+         transform="translate(0,123.00003)" />
+      <circle
+         style="opacity:1;fill:#38c76a;fill-opacity:1;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="circle2567"
+         cx="37"
+         cy="725.36212"
+         r="8" />
+    </g>
+    <g
+       id="hover-center"
+       transform="translate(-64.696994,384.86914)">
+      <g
+         id="use1867"
+         transform="translate(40,123.00003)" />
+      <circle
+         style="opacity:1;fill:#38c76a;fill-opacity:1;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="circle2569"
+         cx="77"
+         cy="725.36212"
+         r="8" />
+      <g
+         id="g2908"
+         transform="translate(69,717.36212)"
+         style="fill:#ffffff">
+        <path
+           d="M 6,6 C 4.892,6 4,6.892 4,8 v 2 c 0,1.108 0.892,2 2,2 h 2 c 1.108,0 2,-0.892 2,-2 V 8 C 10,6.892 9.108,6 8,6 Z m 0,1 h 2 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554 -0.446,1 -1,1 H 6 C 5.446,11 5,10.554 5,10 V 8 C 5,7.446 5.446,7 6,7 Z"
+           style="fill:#ffffff;paint-order:stroke fill markers"
+           id="path2896" />
+        <path
+           d="M 8,4 C 6.892,4 6,4.892 6,6 H 7 C 7,5.446 7.446,5 8,5 h 2 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554 -0.446,1 -1,1 v 1 c 1.108,0 2,-0.892 2,-2 V 6 C 12,4.892 11.108,4 10,4 Z"
+           style="fill:#ffffff;paint-order:stroke fill markers"
+           id="path2898"
+           opacity="0.35" />
+      </g>
+    </g>
+    <g
+       id="pressed-center"
+       transform="translate(-64.696994,384.86914)">
+      <g
+         id="use1869"
+         transform="translate(80,123.00003)" />
+      <circle
+         style="opacity:1;fill:#38c76a;fill-opacity:1;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="circle2571"
+         cx="117"
+         cy="725.36212"
+         r="8" />
+      <circle
+         style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="circle2813"
+         cx="117"
+         cy="725.36212"
+         r="8" />
+      <g
+         id="g2938"
+         transform="translate(109,717.36212)"
+         style="fill:#ffffff">
+        <path
+           d="M 6,6 C 4.892,6 4,6.892 4,8 v 2 c 0,1.108 0.892,2 2,2 h 2 c 1.108,0 2,-0.892 2,-2 V 8 C 10,6.892 9.108,6 8,6 Z m 0,1 h 2 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554 -0.446,1 -1,1 H 6 C 5.446,11 5,10.554 5,10 V 8 C 5,7.446 5.446,7 6,7 Z"
+           style="fill:#ffffff;paint-order:stroke fill markers"
+           id="path2934" />
+        <path
+           d="M 8,4 C 6.892,4 6,4.892 6,6 H 7 C 7,5.446 7.446,5 8,5 h 2 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554 -0.446,1 -1,1 v 1 c 1.108,0 2,-0.892 2,-2 V 6 C 12,4.892 11.108,4 10,4 Z"
+           opacity="0.35"
+           style="fill:#ffffff;paint-order:stroke fill markers"
+           id="path2936" />
+      </g>
+    </g>
+    <g
+       id="hover-inactive-center"
+       transform="translate(-64.696994,419.68175)">
+      <g
+         id="g1841"
+         transform="translate(40,123.00003)" />
+      <circle
+         id="circle1843"
+         cx="77"
+         cy="725.36212"
+         r="8"
+         class="ColorScheme-Text"
+         fill="currentColor"
+         style="opacity:0.3" />
+      <g
+         id="g1849"
+         transform="translate(69,717.36212)"
+         style="fill:#ffffff">
+        <path
+           d="M 6,6 C 4.892,6 4,6.892 4,8 v 2 c 0,1.108 0.892,2 2,2 h 2 c 1.108,0 2,-0.892 2,-2 V 8 C 10,6.892 9.108,6 8,6 Z m 0,1 h 2 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554 -0.446,1 -1,1 H 6 C 5.446,11 5,10.554 5,10 V 8 C 5,7.446 5.446,7 6,7 Z"
+           style="fill:#ffffff;paint-order:stroke fill markers"
+           id="path1845" />
+        <path
+           d="M 8,4 C 6.892,4 6,4.892 6,6 H 7 C 7,5.446 7.446,5 8,5 h 2 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554 -0.446,1 -1,1 v 1 c 1.108,0 2,-0.892 2,-2 V 6 C 12,4.892 11.108,4 10,4 Z"
+           style="fill:#ffffff;paint-order:stroke fill markers"
+           id="path1847"
+           opacity="0.35" />
+      </g>
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#inactive-center"
+       id="deactivated-center"
+       transform="translate(-0.21336753,-26.948412)"
+       width="100%"
+       height="100%" />
+    <use
+       height="100%"
+       width="100%"
+       transform="translate(28.709753,-26.948412)"
+       id="deactivated-inactive-center"
+       xlink:href="#inactive-center"
+       y="0"
+       x="0" />
+    <circle
+       id="inactive-center"
+       cx="92.266663"
+       cy="1111.853"
+       r="8"
+       class="ColorScheme-Text"
+       fill="currentColor"
+       style="opacity:0.3" />
+  </g>
+</svg>
