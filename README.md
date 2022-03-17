@@ -22,7 +22,7 @@ In this repository you'll find:
 
   Run `kvantummanager` to choose and apply **Monterey** (or any other Monterey) theme.
 
-- Install [Colloid icon theme](https://github.com/vinceliuice/WhiteSur-icon-theme) for a more consistent and beautiful experience.
+- Install [Colloid icon theme](https://github.com/vinceliuice/Colloid-icon-theme) for a more consistent and beautiful experience.
 
 - Install [WhiteSur cursors theme](https://github.com/vinceliuice/WhiteSur-cursors) for a more consistent and beautiful experience.
 
