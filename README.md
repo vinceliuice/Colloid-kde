@@ -38,7 +38,7 @@ GNU GPL v3
 
 ## preview
 
-![light](plasma/look-and-feel/com.github.vinceliuice.Colloid-light/contents/previews/fullscreenpreview.jpg)
-![dark](plasma/look-and-feel/com.github.vinceliuice.Colloid-dark/contents/previews/fullscreenpreview.jpg)
+![light](Screenshot_light.png)
+![dark](Screenshot_dark.png)
 
 
