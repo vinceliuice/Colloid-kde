@@ -83,7 +83,7 @@ button.color=#f2f2f2
 light.color=#ffffff
 mid.light.color=#f0f0f0
 dark.color=#c8c8c8
-mid.color=#e1e1e196
+mid.color=#e1e1e1
 highlight.color=#3c84f7
 inactive.highlight.color=#3c84f7
 text.color=#444444
@@ -154,7 +154,7 @@ text.toggle.color=white
 text.disabled.color=#44444474
 text.bold=false
 indicator.element=arrow
-indicator.size=0
+indicator.size=8
 frame.expansion=0
 
 [ToolbarButton]
@@ -214,6 +214,8 @@ frame=false
 interior.element=radio
 text.normal.color=#444444
 text.focus.color=#444444
+text.press.color=#333333
+text.toggle.color=#333333
 min_width=+0.3font
 min_height=+0.3font
 
@@ -223,6 +225,8 @@ frame=false
 interior.element=checkbox
 text.normal.color=#444444
 text.focus.color=#444444
+text.press.color=#333333
+text.toggle.color=#333333
 min_width=+0.3font
 min_height=+0.3font
 
@@ -554,6 +558,8 @@ interior.element=tooltip
 frame.element=tooltip
 text.normal.color=#444444
 text.focus.color=#333333
+text.press.color=#333333
+text.toggle.color=#333333
 frame.expansion=6
 
 [StatusBar]

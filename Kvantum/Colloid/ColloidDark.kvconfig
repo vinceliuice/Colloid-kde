@@ -152,7 +152,7 @@ text.press.color=white
 text.toggle.color=#ffffff
 text.bold=false
 indicator.element=arrow
-indicator.size=0
+indicator.size=8
 frame.expansion=0
 
 [ToolbarButton]

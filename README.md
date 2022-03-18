@@ -1,5 +1,7 @@
 
-## Colloid kde is a MacOS Monterey like theme for KDE Plasma desktop.
+## Colloid KDE Theme
+
+Colloid kde theme is a clean and concise theme for KDE Plasma desktop.
 
 In this repository you'll find:
 
