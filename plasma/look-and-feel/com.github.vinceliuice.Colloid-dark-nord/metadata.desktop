@@ -1,6 +1,6 @@
 [Desktop Entry]
-Name=Colloid-light
-Comment=Colloid theme for kde plasma
+Name=Colloid-dark-nord
+Comment=Colloid-nord theme for kde plasma
 Encoding=UTF-8
 Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
 Type=Service
@@ -13,9 +13,9 @@ X-KDE-PluginInfo-Author=Vince Liuice
 X-KDE-PluginInfo-Email=vinceliuice@hotmail.com
 X-KDE-PluginInfo-License=GPL3.0
 X-KDE-PluginInfo-Version=0.1
-X-KDE-PluginInfo-Name=com.github.vinceliuice.Colloid-light
+X-KDE-PluginInfo-Name=com.github.vinceliuice.Colloid-dark-nord
 X-KDE-PluginInfo-Website=https://github.com/vinceliuice/Colloid-kde
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 X-Plasma-MainScript=defaults
 
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1738676,kns://plasma-themes.knsrc/api.kde-look.org/1738699,kns://aurorae.knsrc/api.kde-look.org/1738680,kns://wallpaper.knsrc/api.kde-look.org/1738708,kns://sddmtheme.knsrc/api.kde-look.org/1738693,kns://icons.knsrc/api.kde-look.org/1661983,kns://xcursor.knsrc/api.kde-look.org/1411743
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1738676,kns://plasma-themes.knsrc/api.kde-look.org/1738703,kns://aurorae.knsrc/api.kde-look.org/1738680,kns://wallpaper.knsrc/api.kde-look.org/1738708,kns://sddmtheme.knsrc/api.kde-look.org/1738693,kns://icons.knsrc/api.kde-look.org/1661983,kns://xcursor.knsrc/api.kde-look.org/1411743
