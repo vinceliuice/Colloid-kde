@@ -6,7 +6,7 @@
    viewBox="0 0 119.06 119.06"
    id="svg8"
    sodipodi:docname="logo.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -37,8 +37,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1440"
-     inkscape:window-height="748"
+     inkscape:window-width="1920"
+     inkscape:window-height="999"
      id="namedview10"
      showgrid="true"
      inkscape:snap-bbox="true"
@@ -47,21 +47,29 @@
      inkscape:snap-nodes="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.0182338"
-     inkscape:cx="315.25177"
-     inkscape:cy="215.07831"
+     inkscape:zoom="1.44"
+     inkscape:cx="87.847219"
+     inkscape:cy="243.05555"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#868686">
     <inkscape:grid
        type="xygrid"
        id="grid839" />
   </sodipodi:namedview>
+  <circle
+     style="opacity:0.25;fill:#ffffff;fill-rule:evenodd;stroke-width:0.47624;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     id="path13017"
+     cx="59.529999"
+     cy="50.269779"
+     r="23.812002" />
   <g
      id="g828"
-     transform="translate(5.5902769e-7,-8.2019089)">
+     transform="translate(0,-9.2602187)">
     <path
        id="path3844"
        d="m 59.529998,42.59702 c -9.351825,0 -16.932978,7.581152 -16.932978,16.932978 0,9.351825 7.581153,16.932977 16.932978,16.932977 9.351825,0 16.932978,-7.581152 16.932978,-16.932977 0,-9.351826 -7.581153,-16.932978 -16.932978,-16.932978 z m 0,3.174933 A 13.758044,13.758044 0 0 1 73.288042,59.529998 13.758044,13.758044 0 0 1 59.529998,73.288042 13.758044,13.758044 0 0 1 45.771954,59.529998 13.758044,13.758044 0 0 1 59.529998,45.771953 Z"

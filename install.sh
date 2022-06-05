@@ -33,12 +33,12 @@ install() {
   [[ ${color} == '-light' ]] && local ELSE_COLOR='Light'
   [[ ${theme} == '-nord' ]] && local ELSE_THEME='Nord'
 
-  local AURORAE_THEME="${AURORAE_DIR}/${name}${color}"
-  local PLASMA_THEME="${PLASMA_DIR}/${name}${theme}${color}"
+  local AURORAE_THEME="${AURORAE_DIR}/${name}${color}${theme}"
+  local PLASMA_THEME="${PLASMA_DIR}/${name}${color}${theme}"
   local LOOKFEEL_THEME="${LOOKFEEL_DIR}/com.github.vinceliuice.${name}${color}${theme}"
   local SCHEMES_THEME="${SCHEMES_DIR}/${name}${ELSE_COLOR}${ELSE_THEME}.colors"
   local KVANTUM_THEME="${KVANTUM_DIR}/${name}${ELSE_THEME}"
-  local WALLPAPER_THEME="${WALLPAPER_DIR}/${name}${theme}${color}"
+  local WALLPAPER_THEME="${WALLPAPER_DIR}/${name}${color}${theme}"
   local LATTE_THEME="${LATTE_DIR}/${name}.layout.latte"
 
   [[ -d ${AURORAE_THEME} ]] && rm -rf ${AURORAE_THEME}
@@ -56,8 +56,16 @@ install() {
   cp -r ${SRC_DIR}/color-schemes/${name}${ELSE_COLOR}${ELSE_THEME}.colors                    ${SCHEMES_DIR}
   cp -r ${SRC_DIR}/Kvantum/${name}${ELSE_THEME}                                              ${KVANTUM_DIR}
   cp -r ${SRC_DIR}/plasma/desktoptheme/${name}-dark                                          ${PLASMA_THEME}
-  cp -r ${SRC_DIR}/plasma/desktoptheme/${name}-light/*                                       ${PLASMA_DIR}/${name}-light
-  cp -r ${SRC_DIR}/plasma/desktoptheme/icons                                                 ${PLASMA_DIR}/${name}${color}
+
+  if [[ "${color}" == '-light' ]]; then
+    cp -r ${SRC_DIR}/plasma/desktoptheme/${name}-light/*                                     ${PLASMA_THEME}
+  fi
+
+  if [[ "${theme}" == '-nord' ]]; then
+    sed -i "s/${name}${color}/${name}${color}${theme}/g"                                     ${PLASMA_THEME}/metadata.desktop
+  fi
+
+  cp -r ${SRC_DIR}/plasma/desktoptheme/icons                                                 ${PLASMA_THEME}
   cp -r ${SRC_DIR}/plasma/look-and-feel/com.github.vinceliuice.${name}${color}${theme}       ${LOOKFEEL_DIR}
   cp -r ${SRC_DIR}/wallpaper/${name}${color}${theme}                                         ${WALLPAPER_DIR}
   mkdir -p                                                                                   ${PLASMA_THEME}/wallpapers

@@ -24,4 +24,4 @@ library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Colloid-dark-nord
 
 [plasmarc][Theme]
-name=Colloid-dark
+name=Colloid-dark-nord
