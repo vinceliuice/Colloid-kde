@@ -70,7 +70,7 @@ install() {
   cp -r ${SRC_DIR}/wallpaper/${name}${color}${theme}                                         ${WALLPAPER_DIR}
   mkdir -p                                                                                   ${PLASMA_THEME}/wallpapers
   cp -r ${SRC_DIR}/wallpaper/${name}${color}${theme}                                         ${PLASMA_THEME}/wallpapers
-  cp -r ${SRC_DIR}/latte-dock/${name}.layout.latte                                           ${LATTE_THEME}
+  [[ -d ${LATTE_THEME} ]] && cp -r ${SRC_DIR}/latte-dock/${name}.layout.latte                ${LATTE_THEME}
 }
 
 echo "Installing '${THEME_NAME} kde themes'..."
