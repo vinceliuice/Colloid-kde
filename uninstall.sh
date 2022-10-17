@@ -25,7 +25,7 @@ fi
 
 check_and_remove() {
   if ls $1 1> /dev/null 2>&1; then
-    rm -rfv $1*
+    rm -rfv $1
   fi
 }
 
