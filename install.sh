@@ -79,9 +79,9 @@ install() {
 
   cp -r ${SRC_DIR}/plasma/desktoptheme/icons                                                 ${PLASMA_THEME}
   cp -r ${SRC_DIR}/plasma/look-and-feel/com.github.vinceliuice.${name}${color}${theme}       ${LOOKFEEL_DIR}
-  cp -r ${SRC_DIR}/wallpaper/${name}${color}${theme}                                         ${WALLPAPER_DIR}
+  cp -r ${SRC_DIR}/wallpapers/${name}${color}${theme}                                        ${WALLPAPER_DIR}
   mkdir -p                                                                                   ${PLASMA_THEME}/wallpapers
-  cp -r ${SRC_DIR}/wallpaper/${name}${color}${theme}                                         ${PLASMA_THEME}/wallpapers
+  cp -r ${SRC_DIR}/wallpapers/${name}${color}${theme}                                        ${PLASMA_THEME}/wallpapers
   [[ -d ${LATTE_THEME} ]] && cp -r ${SRC_DIR}/latte-dock/${name}.layout.latte                ${LATTE_THEME}
 }
 
