@@ -17,5 +17,4 @@ X-KDE-PluginInfo-Name=com.github.vinceliuice.Colloid-dark
 X-KDE-PluginInfo-Website=https://github.com/vinceliuice/Colloid-kde
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 X-Plasma-MainScript=defaults
-
 X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1738676,kns://plasma-themes.knsrc/api.kde-look.org/1738703,kns://aurorae.knsrc/api.kde-look.org/1738680,kns://wallpaper.knsrc/api.kde-look.org/1738708,kns://sddmtheme.knsrc/api.kde-look.org/1738693,kns://icons.knsrc/api.kde-look.org/1661983,kns://xcursor.knsrc/api.kde-look.org/1831077

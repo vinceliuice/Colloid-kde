@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "vinceliuice@hotmail.com",
+                "Name": "Vinceliuice"
+            }
+        ],
+        "Category": "",
+        "Dependencies": [],
+        "Description": "Colloid-light theme for plasma",
+        "EnabledByDefault": true,
+        "Id": "Colloid-light",
+        "License": "GPL 3.0",
+        "Name": "Colloid-light",
+        "Version": "0.1",
+        "Website": "https://github.com/vinceliuice/Colloid-kde"
+    }
+}
