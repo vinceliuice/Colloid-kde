@@ -5,7 +5,7 @@ cursorTheme=Colloid-cursors
 ColorScheme=ColloidDarkNord
 
 [kdeglobals][Icons]
-Theme=Colloid-dark
+Theme=Colloid-Dark
 
 [kdeglobals][KDE]
 widgetStyle=kvantum-dark
